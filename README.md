@@ -1,4 +1,4 @@
-True Musiq
+**True Musiq**
 
 Welcome to True Musiq! Here is the user manual describing how to use this application.
 
@@ -7,12 +7,14 @@ There are multiple screens to search through:
 Home: 
 
 	There are three buttons on this screen.
-Library
-Upload New Music
-Search
-	These buttons lead it to that specific screen
+	Library
+	Upload New Music
+	Search
 
-	When a song is played, a list of up to three songs will be displayed. These are the most recent songs and the playlists they are in. You have the choice to select the song or playlist.
+	These buttons lead it to that specific screen
+	
+	When a song is played, a list of up to three songs will be displayed. These are the most recent songs and the playlists they are in. 
+ 	You have the choice to select the song or playlist.
 
 Library:
 
@@ -24,7 +26,8 @@ Library:
 			Clicking a playlist will open up the Individual Playlist screen
 
 		Selection Mode (Active)-
-			Clicking a playlist will select it. The(se) selected playlist(s) can have their songs shuffled or played straight through by clicking the respective Play and Shuffle buttons at the bottom
+			Clicking a playlist will select it. 
+		The(se) selected playlist(s) can have their songs shuffled or played straight through by clicking the respective Play and Shuffle buttons at the bottom
 	
 
 Upload New Music:
@@ -58,14 +61,14 @@ Current Song:
 
 	This screen is for playing the currently selected song
 	
-The top will display the currently selected song and the artist
-Under that is a time bar showing the where the songs duration and where it currently is
+	The top will display the currently selected song and the artist
+	Under that is a time bar showing the where the songs duration and where it currently is
+	
+	The playlist the song is in will also be shown under the time bar
 
-The playlist the song is in will also be shown under the time bar
-
-At the bottom are 3 buttons
-Left: resets the song
-Middle: plays and pausing the song
+	At the bottom are 3 buttons
+	Left: resets the song
+	Middle: plays and pausing the song
 	Right: if there is another song queued, will go to that
 
 
@@ -76,25 +79,23 @@ Middle: plays and pausing the song
 New Playlist:
 
 	This screen is for creating new playlists and adding songs to them.
-
 	The top will display the currently selected song and the artist
-Under that is the text bar to enter a new playlist name
+ 
+	Under that is the text bar to enter a new playlist name
 
 	Enter the playlist name into the text bar and click submit, if that name isn’t taken then a new playlist of that name will be made
-
 	The lower half of the screen will show you the already created playlist, up to 3 at a time
-
 	By clicking one, the currently selected song will be added to that playlist!
 	
 
-Individual Playlist: 
+Individual Playlist:
 
 	This screen is for showing the songs within a playlist.
-
+ 
 	Up to 8 songs are shown at once
-Use the left and right buttons on the side to continue looking for more than that
-
-Clicking a song name will send you to the Current Song screen where the song can be played
-
-The playlist can also played straight through or shuffled by clicking the respective Play and Shuffle buttons at the bottom
-
+ 
+	Use the left and right buttons on the side to continue looking for more than that
+	
+	Clicking a song name will send you to the Current Song screen where the song can be played
+	
+	The playlist can also played straight through or shuffled by clicking the respective Play and Shuffle buttons at the bottom
