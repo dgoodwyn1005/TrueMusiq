@@ -16,7 +16,8 @@ Home:
 	When a song is played, a list of up to three songs will be displayed. These are the most recent songs and the playlists they are in. 
  	You have the choice to select the song or playlist.
 
-![Screenshot](/screenshots/)
+![Screenshot](/screenshots/home)
+![Screenshot](/screenshots/home2)
 
 Library:
 
@@ -30,7 +31,8 @@ Library:
 		Selection Mode (Active)-
 			Clicking a playlist will select it. 
 		The(se) selected playlist(s) can have their songs shuffled or played straight through by clicking the respective Play and Shuffle buttons at the bottom
-	
+
+![Uploading image.png…](/screenshots/library)
 
 Upload New Music:
 	
@@ -40,6 +42,8 @@ Upload New Music:
 	Select the mp3, wav, or ogg file you want to use.
 	Afterwards, enter a title and author
 	Finally, hit the submit button to add it to the program
+
+![Screenshot](/screenshots/upload)
 
 Search:
 
@@ -58,6 +62,9 @@ Search:
 	When you find the song you want, there will be 2 options
 	Clicking the name will send you to the Current Song screen where the song can be played
 	Clicking the button that appears next to it will send you to the New Playlist screen where the song can be added to a playlist
+	
+![Screenshot](/screenshots/search_name)
+![Screenshot](/screenshots/search_playlist)
 
 Current Song:
 
@@ -73,10 +80,8 @@ Current Song:
 	Middle: plays and pausing the song
 	Right: if there is another song queued, will go to that
 
-
-
-
-
+![Screenshot](/screenshots/current_song)
+![Screenshot](/screenshots/current_song2)
 
 New Playlist:
 
@@ -89,6 +94,7 @@ New Playlist:
 	The lower half of the screen will show you the already created playlist, up to 3 at a time
 	By clicking one, the currently selected song will be added to that playlist!
 	
+![Screenshot](/screenshots/playlist_creation)
 
 Individual Playlist:
 
@@ -101,3 +107,6 @@ Individual Playlist:
 	Clicking a song name will send you to the Current Song screen where the song can be played
 	
 	The playlist can also played straight through or shuffled by clicking the respective Play and Shuffle buttons at the bottom
+
+![Screenshot](/screenshots/playlist)
+![Screenshot](/screenshots/playlist2)
