@@ -65,7 +65,8 @@ Search:
 	Clicking the button that appears next to it will send you to the New Playlist screen where the song can be added to a playlist
 	
 ![Screenshot](/screenshots/search_name)
-![Screenshot](/screenshots/search_playlist)
+![Screenshot](/screenshots/search_name2)
+![Screenshot](/screenshots/search_artist)
 
 Current Song:
 
