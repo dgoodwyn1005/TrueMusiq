@@ -32,7 +32,8 @@ Library:
 			Clicking a playlist will select it. 
 		The(se) selected playlist(s) can have their songs shuffled or played straight through by clicking the respective Play and Shuffle buttons at the bottom
 
-![Uploading image.png…](/screenshots/library)
+![Screenshot](/screenshots/library)
+![Screenshot](/screenshots/library_multiple_select)
 
 Upload New Music:
 	
