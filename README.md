@@ -16,6 +16,8 @@ Home:
 	When a song is played, a list of up to three songs will be displayed. These are the most recent songs and the playlists they are in. 
  	You have the choice to select the song or playlist.
 
+![Screenshot](/screenshots/)
+
 Library:
 
 	This screen is for selecting all the different playlists.
